@@ -10,7 +10,7 @@ My name is Nacho Mascort and I'm a Technical Search Engine Optimizer (SEO + Prod
 #### 📫 How to reach me:
 - Twitter: https://twitter.com/NachoMascort
 - LinkedIn: https://www.linkedin.com/in/nachomascort/
-- Personal blog: https://seohacks.es/
+- Personal blog: https://nachomascort.com
 
 <!--
 **NachoSEO/NachoSEO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

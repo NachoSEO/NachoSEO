@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Nacho  
 
-My name is Nacho Mascort and I'm a Technical Search Engine Optimizer (SEO + Product + Dev + Data Analysis) doing some cool stuff at Softonic International. I love anything related with Technology and the Internet (specially SEO and development).
+My name is Nacho Mascort and I'm a Technical Search Engine Optimizer (SEO + Product + Dev + Data Analysis) doing some cool stuff at Cliqpod & ReverseTech. I love anything related with Technology and the Internet (specially SEO and development).
 
 ### 🛠️ My personal stack
 - JavaScript

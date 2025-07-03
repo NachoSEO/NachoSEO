@@ -1,11 +1,12 @@
 ### 👋 Hi there, I'm Nacho  
 
-My name is Nacho Mascort and I'm a Technical Search Engine Optimizer (SEO + Product + Dev + Data Analysis) doing some cool stuff at Cliqpod & ReverseTech. I love anything related with Technology and the Internet (specially SEO and development).
+My name is Nacho Mascort and I like to combine  Marketing + Product + Dev + Data Analysis to do some cool stuff at Reverse Tech. I love anything related with Technology.
 
 ### 🛠️ My personal stack
 - JavaScript
 - SQL
 - Python
+- AI
 
 #### 📫 How to reach me:
 - Twitter: https://twitter.com/NachoMascort
